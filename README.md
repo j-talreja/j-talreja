@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @j-talreja
 - 👀 I’m interested in helping you for better
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning GitHub, Azure DevOps, Clearcase
 - 📫 How to reach me jayeshshyam.talreja@philips.com
 
 <!---
